@@ -14,7 +14,7 @@
 
 <a name="english"></a>
 
-# � Hi, I'm Ibnu Javier Zaenuri
+# 👋 Hi, I'm Ibnu Javier Zaenuri
 
 ### Full Stack Developer | Backend Specialist | Enterprise Solutions Architect
 
@@ -101,25 +101,14 @@ I architect **high-performance digital solutions** for **complex, mission-critic
 
 </div>
 
-## � GitHub StSats
+## 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Codeby-Javier&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8BC34A&icon_color=8BC34A&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeby-Javier&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=8BC34A&text_color=C9D1D9" alt="Top Languages"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codeby-Javier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Codeby-Javier&theme=dark&hide_border=true&background=0D1117&ring=8BC34A&fire=8BC34A&currStreakLabel=8BC34A&stroke=8BC34A" alt="GitHub Streak"/>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codeby-Javier&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Codeby-Javier&theme=github-compact&hide_border=true&bg_color=0D1117&color=8BC34A&line=8BC34A&point=C9D1D9" alt="Contribution Graph"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Codeby-Javier&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 💡 Philosophy
@@ -176,7 +165,7 @@ Saya merancang **solusi digital berkinerja tinggi** untuk **sistem mission-criti
 - 🎯 Fokus: **Clean Architecture**, **Scalability**, **Performance Optimization**
 - 📫 Hubungi saya: **javieribnu12@gmail.com**
 
-## � Filoso fi
+## 💡 Filosofi
 
 > "Saya tidak hanya menulis kode — saya merekayasa solusi yang scalable, performant, dan tahan lama."
 
