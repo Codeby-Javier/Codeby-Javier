@@ -32,8 +32,8 @@
 I architect **high-performance digital solutions** for **complex, mission-critical systems**. From corporate ERPs and EdTech platforms to sophisticated financial & e-commerce applications, I deliver **robust, scalable & maintainable** solutions.
 
 - 🔭 Currently working on **Enterprise-scale Backend Systems**
-- 🌱 Exploring **Go (Golang)** for high-performance microservices
-- 💼 Specialized in **Backend Development** with full-stack capabilities
+- 🌱 Mastering **Multi-language Backend Development** across C#, Go, Python, PHP & Node.js
+- 💼 Specialized in **Backend Architecture** with full-stack capabilities
 - 🎯 Focus: **Clean Architecture**, **Scalability**, **Performance Optimization**
 - 📫 Reach me: **javieribnu12@gmail.com**
 
@@ -171,8 +171,8 @@ Building software is about solving real problems with the right technology stack
 Saya merancang **solusi digital berkinerja tinggi** untuk **sistem mission-critical yang kompleks**. Dari ERP korporat dan platform EdTech hingga aplikasi finansial & e-commerce yang canggih, saya menghadirkan solusi yang **robust, scalable & maintainable**.
 
 - 🔭 Saat ini mengerjakan **Sistem Backend Skala Enterprise**
-- 🌱 Mempelajari **Go (Golang)** untuk microservices berkinerja tinggi
-- 💼 Spesialisasi dalam **Backend Development** dengan kemampuan full-stack
+- 🌱 Menguasai **Pengembangan Backend Multi-bahasa** di C#, Go, Python, PHP & Node.js
+- 💼 Spesialisasi dalam **Arsitektur Backend** dengan kemampuan full-stack
 - 🎯 Fokus: **Clean Architecture**, **Scalability**, **Performance Optimization**
 - 📫 Hubungi saya: **javieribnu12@gmail.com**
 
@@ -221,8 +221,8 @@ Membangun software adalah tentang menyelesaikan masalah nyata dengan teknologi y
 私は**複雑なミッションクリティカルシステム**のための**高性能デジタルソリューション**を設計しています。企業ERPやEdTechプラットフォームから、洗練された金融・eコマースアプリケーションまで、**堅牢でスケーラブルで保守可能な**ソリューションを提供します。
 
 - 🔭 現在、**エンタープライズスケールのバックエンドシステム**に取り組んでいます
-- 🌱 高性能マイクロサービスのための**Go（Golang）**を探求中
-- 💼 フルスタック機能を持つ**バックエンド開発**を専門としています
+- 🌱 **マルチ言語バックエンド開発**をマスター中：C#、Go、Python、PHP、Node.js
+- 💼 フルスタック機能を持つ**バックエンドアーキテクチャ**を専門としています
 - 🎯 焦点：**クリーンアーキテクチャ**、**スケーラビリティ**、**パフォーマンス最適化**
 - 📫 連絡先：**javieribnu12@gmail.com**
 
@@ -271,8 +271,8 @@ Membangun software adalah tentang menyelesaikan masalah nyata dengan teknologi y
 我为**复杂的关键任务系统**设计**高性能数字解决方案**。从企业ERP和教育科技平台到复杂的金融和电子商务应用程序，我提供**强大、可扩展和可维护的**解决方案。
 
 - 🔭 目前正在开发**企业级后端系统**
-- 🌱 探索用于高性能微服务的**Go（Golang）**
-- 💼 专注于具有全栈能力的**后端开发**
+- 🌱 精通**多语言后端开发**：C#、Go、Python、PHP 和 Node.js
+- 💼 专注于具有全栈能力的**后端架构**
 - 🎯 重点：**清洁架构**、**可扩展性**、**性能优化**
 - 📫 联系我：**javieribnu12@gmail.com**
 
@@ -321,8 +321,8 @@ Membangun software adalah tentang menyelesaikan masalah nyata dengan teknologi y
 저는 **복잡한 미션 크리티컬 시스템**을 위한 **고성능 디지털 솔루션**을 설계합니다. 기업 ERP 및 EdTech 플랫폼부터 정교한 금융 및 전자상거래 애플리케이션까지, **강력하고 확장 가능하며 유지 관리 가능한** 솔루션을 제공합니다.
 
 - 🔭 현재 **엔터프라이즈 규모의 백엔드 시스템** 작업 중
-- 🌱 고성능 마이크로서비스를 위한 **Go (Golang)** 탐구 중
-- 💼 풀스택 기능을 갖춘 **백엔드 개발** 전문
+- 🌱 **다중 언어 백엔드 개발** 마스터: C#, Go, Python, PHP, Node.js
+- 💼 풀스택 기능을 갖춘 **백엔드 아키텍처** 전문
 - 🎯 초점: **클린 아키텍처**, **확장성**, **성능 최적화**
 - 📫 연락처: **javieribnu12@gmail.com**
 
@@ -371,8 +371,8 @@ Membangun software adalah tentang menyelesaikan masalah nyata dengan teknologi y
 أقوم بتصميم **حلول رقمية عالية الأداء** لـ **الأنظمة الحرجة المعقدة**. من أنظمة ERP للشركات ومنصات التعليم الإلكتروني إلى التطبيقات المالية والتجارة الإلكترونية المتطورة، أقدم حلولاً **قوية وقابلة للتوسع وسهلة الصيانة**.
 
 - 🔭 أعمل حالياً على **أنظمة Backend على مستوى المؤسسات**
-- 🌱 أستكشف **Go (Golang)** للخدمات الدقيقة عالية الأداء
-- 💼 متخصص في **تطوير Backend** مع قدرات full-stack
+- 🌱 إتقان **تطوير Backend متعدد اللغات**: C#، Go، Python، PHP، Node.js
+- 💼 متخصص في **بنية Backend** مع قدرات full-stack
 - 🎯 التركيز: **البنية النظيفة**، **قابلية التوسع**، **تحسين الأداء**
 - 📫 تواصل معي: **javieribnu12@gmail.com**
 
