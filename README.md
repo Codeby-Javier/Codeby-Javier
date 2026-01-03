@@ -101,13 +101,11 @@ I architect **high-performance digital solutions** for **complex, mission-critic
 
 </div>
 
-## 📊 GitHub Activity
+## 📊 Contribution Graph
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Codeby-Javier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codeby-Javier&theme=tokyonight&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codeby-Javier&theme=github-compact&hide_border=true&bg_color=0d1117&color=8BC34A&line=8BC34A&point=ffffff)
 
 </div>
 
