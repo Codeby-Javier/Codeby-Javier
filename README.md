@@ -1,48 +1,74 @@
 <!--
   Professional GitHub Profile README — Landing Page Style
-  Bilingual: English / Bahasa Indonesia
+  Bilingual: English / Bahasa Indonesia (switch with tabs)
 -->
 
 <div align="center">
 
-# 👋 Hi, I'm **Ibnu Javier Zaenuri**  
+# 🚀 Ibnu Javier Zaenuri  
 ### Fullstack Developer · Backend Engineer · UI/UX Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8BC34A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codeby-javier.github.io/my-portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnu-javier-zaenuri-99028b21b)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codeby-Javier)
 
+---
+
+### 🌐 Language Selector
+[🇬🇧 English](#english) | [🇮🇩 Bahasa Indonesia](#indonesian)
+
 </div>
 
 ---
 
-## 🚀 About Me / Tentang Saya
-**English**  
-I build **scalable backend systems**, craft **user‑centered interfaces**, and deliver **enterprise solutions** that balance performance, security, and usability. With 2+ years of professional experience, I’ve contributed to banking, enterprise, and startup ecosystems.
+<a name="english"></a>
 
-**Bahasa Indonesia**  
-Saya membangun **sistem backend yang scalable**, merancang **antarmuka berfokus pada pengguna**, dan menghadirkan **solusi enterprise** yang mengutamakan performa, keamanan, serta pengalaman pengguna. Dengan pengalaman profesional 2+ tahun, saya telah berkontribusi di sektor perbankan, enterprise, dan startup.
+## 💡 Headline
+**"Engineering scalable systems with user‑centered design."**
+
+## 📝 Subhead
+Backend & Fullstack Developer with 2+ years of experience in **banking, enterprise, and startups**.  
+Specialized in **Go, Python, Node.js**, and **UI/UX design** for enterprise‑grade applications.
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Go, Python, Node.js, PHP, TypeScript  
-**Backend:** Gin, Django, Laravel, Express, CodeIgniter  
-**Frontend / UI:** Next.js, React, Tailwind CSS, Bootstrap, Turbopack, Figma  
-**Databases:** SQL Server, MySQL, ClickHouse, SQLite, Supabase  
-**Observability & BI:** Grafana, Metabase, distributed tracing  
-**Security:** JWT, LDAP, RBAC, audit logging  
-**DevOps & Tools:** Docker, Git/GitHub, Bamboo CI/CD, Nginx, Apache, Vercel
+**Languages:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend / UI:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Backend / Frameworks:**  
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 💼 Experience / Pengalaman
-- **Backend Developer — PT Bank Rakyat Indonesia (Persero) Tbk (2026–Present)**  
-  Enterprise observability platform: Go/Gin APIs, multi‑database integration, anomaly detection, ML pipelines, Grafana dashboards.  
+## 💼 Experience
+- **Backend Developer — PT Bank Rakyat Indonesia (2026–Present)**  
+  Enterprise observability platform, anomaly detection, ML pipelines, Grafana dashboards.  
   *Highlights:* Query latency ↓35%, MTTD ↓40%, MTTR ↓30%, availability ≥99%.
 
 - **Frontend Developer — PT Bina Auto Solusi (2026)**  
-  Corporate website migration: Next.js + React + Laravel, SEO optimization.  
+  Corporate website migration with Next.js + React + Laravel.  
   *Highlights:* Loading speed +50%, organic traffic +40%.
 
 - **Backend Developer — ASUS Center (2025–2026)**  
@@ -64,22 +90,59 @@ Saya membangun **sistem backend yang scalable**, merancang **antarmuka berfokus 
 - **Website All In One — PT Bina Auto Solusi** — Laravel, Next.js, React. Data accuracy 95%, uptime 99%.  
 - **Digitalisasi Koperasi** — Node.js Native, SQLite, Chart.js. Operational efficiency +60%.  
 - **BillingPay WiFi** — Golang, MySQL. Scaled to 350+ locations, uptime 98%.  
-- **Meeting Assist (AI Productivity Tool)** — Go, Supabase, AssemblyAI. Documentation time ↓75%, accuracy 92%.  
-- **ERP Inventory & Sales Management** — Laravel, MySQL, Chart.js. Inventory accuracy 99.5%.  
-- **Cuanin (Smart E‑Commerce Platform)** — Laravel, Filament, Midtrans. 400+ transactions/month, success rate 98%.
+- **Meeting Assist (AI Productivity Tool)** — Go, Supabase, AssemblyAI. Documentation time ↓75%, accuracy 92%.
 
 ---
 
-## 🎓 Education
-**Bachelor of Applied Science**  
-- GPA: 3.89 (Cum Laude)
+<a name="indonesian"></a>
+
+## 💡 Headline
+**"Merekayasa sistem scalable dengan desain berfokus pada pengguna."**
+
+## 📝 Subhead
+Fullstack & Backend Developer dengan pengalaman 2+ tahun di **perbankan, enterprise, dan startup**.  
+Spesialisasi di **Go, Python, Node.js**, serta **UI/UX design** untuk aplikasi enterprise.
+
+---
+
+## 🧰 Tech Stack
+(Sama seperti di atas, ikon bahasa & framework ditampilkan)
+
+---
+
+## 💼 Pengalaman
+- **Backend Developer — PT Bank Rakyat Indonesia (2026–Sekarang)**  
+  Platform observability enterprise, deteksi anomali, pipeline ML, dashboard Grafana.  
+  *Capaian:* Latensi query ↓35%, MTTD ↓40%, MTTR ↓30%, ketersediaan ≥99%.
+
+- **Frontend Developer — PT Bina Auto Solusi (2026)**  
+  Migrasi website perusahaan dengan Next.js + React + Laravel.  
+  *Capaian:* Kecepatan loading +50%, trafik organik +40%.
+
+- **Backend Developer — ASUS Center (2025–2026)**  
+  HRMS & sistem otomatisasi.  
+  *Capaian:* Response time <300ms, waktu proses ↓87.5%, uptime 99.5%.
+
+- **Fullstack Developer Intern — Eduwork (2025)**  
+  Aplikasi web end‑to‑end dengan caching & CI/CD.  
+  *Capaian:* Response API ↓45%, siklus deployment ↓90%.
+
+- **Web Developer — AB Prima Net (2025)**  
+  Sistem billing WiFi & migrasi situs.  
+  *Capaian:* 350+ lokasi, 3,500+ pelanggan, revenue +IDR 40M.
+
+---
+
+## 🏆 Proyek Unggulan
+(Sama seperti versi English, ditampilkan bilingual)
 
 ---
 
 <div align="center">
 
 ### 💡 Philosophy
-*"I don’t just write code — I engineer solutions that scale, perform, and last."*
+*"I don’t just write code — I engineer solutions that scale, perform, and last."*  
+*"Saya tidak hanya menulis kode — saya merekayasa solusi yang scalable, performant, dan tahan lama."*
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codeby-Javier&theme=github-compact&hide_border=true&bg_color=0d1117&color=8BC34A&line=8BC34A&point=ffffff)
 
