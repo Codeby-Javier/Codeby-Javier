@@ -111,7 +111,7 @@ Spesialisasi di **Go, Python, Node.js**, serta **UI/UX design** untuk aplikasi e
 ---
 
 ## 🏆 Proyek Unggulan
-(Sama seperti versi English, ditampilkan bilingual)
+You can check my repository in my GitHub
 
 ---
 
