@@ -24,11 +24,11 @@
 <a name="english"></a>
 
 ## 💡 Headline
-**"Engineering scalable systems with user‑centered design."**
+# **"Engineering scalable systems with user‑centered design."**
 
 ## 📝 Subhead
-Backend & Fullstack Developer with 2+ years of experience in **banking, enterprise, and startups**.  
-Specialized in **Go, Python, Node.js**, and **UI/UX design** for enterprise‑grade applications.
+### Backend & Fullstack Developer with 2+ years of experience in **banking, enterprise, and startups**.  
+Specialized in **Go, Python, Node.js, Julia**, and **UI/UX design** for enterprise‑grade applications.
 
 ---
 
@@ -42,6 +42,7 @@ Specialized in **Go, Python, Node.js**, and **UI/UX design** for enterprise‑gr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 **Frontend / UI**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -67,7 +68,7 @@ Specialized in **Go, Python, Node.js**, and **UI/UX design** for enterprise‑gr
 
 ---
 
-## 💼 Experience (Highlights)
+## 💼 Experience (Key Achievements)
 - **BRI (Backend Developer)** → Query latency ↓35%, MTTD ↓40%, MTTR ↓30%, availability ≥99%.  
 - **Bina Auto Solusi (Frontend Developer)** → Loading speed +50%, organic traffic +40%.  
 - **ASUS Center (Backend Developer)** → Response time <300ms, process time ↓87.5%, uptime 99.5%.  
@@ -88,16 +89,11 @@ Specialized in **Go, Python, Node.js**, and **UI/UX design** for enterprise‑gr
 <a name="indonesian"></a>
 
 ## 💡 Headline
-**"Merekayasa sistem scalable dengan desain berfokus pada pengguna."**
+# **"Merekayasa sistem scalable dengan desain berfokus pada pengguna."**
 
 ## 📝 Subhead
-Fullstack & Backend Developer dengan pengalaman 2+ tahun di **perbankan, enterprise, dan startup**.  
-Spesialisasi di **Go, Python, Node.js**, serta **UI/UX design** untuk aplikasi enterprise.
-
----
-
-## 🧰 Tech Stack (Ikon Horizontal)
-(Sama seperti versi English, ikon berjajar ke samping)
+### Fullstack & Backend Developer dengan pengalaman 2+ tahun di **perbankan, enterprise, dan startup**.  
+Spesialisasi di **Go, Python, Node.js, Julia**, serta **UI/UX design** untuk aplikasi enterprise.
 
 ---
 
@@ -111,7 +107,7 @@ Spesialisasi di **Go, Python, Node.js**, serta **UI/UX design** untuk aplikasi e
 ---
 
 ## 🏆 Proyek Unggulan
-You can check my repository in my GitHub
+You Can Check in my Repository GitHub, and trust me, you can see amazing product
 
 ---
 
