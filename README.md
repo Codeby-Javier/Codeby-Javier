@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codeby-javier.github.io/my-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibnu-javier-zaenuri-portfolio.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnu-javier-zaenuri-99028b21b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Codeby-Javier)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Codeby-Javier)
